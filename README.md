@@ -63,6 +63,8 @@ int main() {
     return 0;
 }
 ```
+## Output
+![codeOutput](https://im.ezgif.com/tmp/ezgif-1-1b5adbd086.gif)
 
 > [!TIP]
 > Harap teliti dalam memulis syntax ya bub ꒰⁠⑅⁠ᵕ⁠༚⁠ᵕ⁠꒱⁠˖⁠♡.
