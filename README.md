@@ -9,8 +9,7 @@
 - Langkah kedua, kamu buka file ```main.c``` yang sudah disediakan.
 - Lankah **Jika**, Jika kamu tidak ingin menulis code yang sudah tertera di ```main.c``` dan membuat file baru, kamu harus menempatkan header ```#include "seilib.h"``` dibawah header ```include <stdio.h>```
 
-# Fitur
-- Fitur disini lumayan banyak untuk mempermudah kalian.
+## Features
 - ```pertambahan(const char*, const char*);```
 - ```pengurangan(const char*, const char*)```
 - ```perkalian(const char*, const char*)```
@@ -29,4 +28,17 @@
 - ```jeda(const int)```
 - ```jedaCepat(const int)```
 - ```kelipatan(const char*)```
-- 
+- ```newLine(const char*)```
+- ```tablePertambahan(const char*)```
+- ```tablePengurangan(const char*)```
+- ```tablePerkalian(const char*)```
+- ```tablePembagian(const char*)```
+- ```cekPosisiHuruf(const char*, const int)```
+- ```displayPosisiHuruf(const char*, const int)```
+
+
+> [!IMPORTANT]
+> Library ini hanya bisa dijalankan untuk IDE (Integrated Development Environment) yang mendukung import file.
+
+> [!CAUTION]
+> Library ini tidak dapat digunakan di IDE/APLIKASI **CodingC**.
