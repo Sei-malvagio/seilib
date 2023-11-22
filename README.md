@@ -43,23 +43,23 @@
 ### A little code example
 ```c
 #include <stdio.h>
-#include "seilib.h"
+#include "seilib.h" //Librarynya
 
 int main() {
-    double hasil;
-    char simpan_nomor_1[20], simpan_nomor_2[20];
-    autoKetikWarna("Halo!, selamat datang di program saya.\n\n", "34000", "warnaBiru");
-    jeda(1);
+    double hasil; //Variable hasil
+    char simpan_nomor_1[20], simpan_nomor_2[20]; //Variable input
+    autoKetikWarna("Halo!, selamat datang di program saya.\n\n", "34000", "warnaBiru"); //biar kece
+    jeda(1); //Jeda 1 detik
     autoKetik("Saya disini membuat program Pertambahan desimal, dan Pembagian desimal\n\n", "34000");
-    jeda(1);
+    jeda(1); //Jeda 1 detik
     autoKetikWarna("Silahkan masukkan nomor 1 dan 2: ", "34000", "warnaAqua");
-    scanf("%s %s", simpan_nomor_1, simpan_nomor_2);
-    jeda(1);
-    hasil = pertambahanDesimal(simpan_nomor_1, simpan_nomor_2);
-    printf("\nHasil dari pertambahan desimal : %.1lf\n", hasil);
-    jeda(1);
-    hasil = pembagianDesimal(simpan_nomor_1, simpan_nomor_2);
-    printf("Hasil dari pembagian desimal : %.1lf\n", hasil);
+    scanf("%s %s", simpan_nomor_1, simpan_nomor_2); //Input nomor 1 dan 2
+    jeda(1); // jeda 1 detik
+    hasil = pertambahanDesimal(simpan_nomor_1, simpan_nomor_2); //Variable hasil untuk pertambahan
+    printf("\nHasil dari pertambahan desimal : %.1lf\n", hasil); //Output variable hasil
+    jeda(1); //Jeda 1 detik
+    hasil = pembagianDesimal(simpan_nomor_1, simpan_nomor_2); //Variable hasil untuk Pengurangan
+    printf("Hasil dari pembagian desimal : %.1lf\n", hasil); //Output variable hasil
     return 0;
 }
 ```
