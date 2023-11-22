@@ -46,7 +46,7 @@
 #include "seilib.h"
 
 int main() {
-    int hasil;
+    double hasil;
     char simpan_nomor_1[20], simpan_nomor_2[20];
     autoKetikWarna("Halo!, selamat datang di program saya.\n\n", "34000", "warnaBiru");
     jeda(1);
