@@ -354,7 +354,7 @@ int jedaCepat(int pause_time_ms) {
 
 void kelipatan(char *part_number_one) {
     int i = 0;
-    if(strlen(part_number_one) == true) {
+    if(strlen(part_number_one) == false) {
         printf("%sError: parameter kelipatan(\"null\");%s", ERR, END_COLOR);
         exit(1);
     }
@@ -363,7 +363,7 @@ void kelipatan(char *part_number_one) {
         exit(1);
     } else {
         _str_to_int = atoi(part_number_one);
-        for(i = _str_to_int; i <= _str_to_int * 2; i+=2) {
+        for(i = _str_to_int; i <= _str_to_int * _str_to_int; i+=_str_to_int) {
             printf("%d ", i);
             fflush(stdout);
             usleep(90900);
