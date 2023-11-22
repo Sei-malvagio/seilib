@@ -1,2 +1,4 @@
-# seilib
-"seilib" adalah library C programming language, Library ini berfungsi untuk memudahkan kalian bagi para pemula bahasa C agar lebih singkat, intinya ini adalah library agar syntaxnya shortcut 
+# About seilib
+**"seilib"** adalah library ***C programming language***, Library ini *berfungsi untuk memudahkan kalian* bagi para pemula bahasa C agar lebih singkat, intinya ini adalah library agar syntaxnya shortcut dan tidak **tambah gila**.
+
+![Contoh](!https://carbon.now.sh/?bg=rgba%2874%2C74%2C74%2C1%29&t=seti&wt=none&l=auto&width=680&ds=true&dsyoff=20px&dsblur=68px&wc=true&wa=true&pv=56px&ph=56px&ln=false&fl=1&fm=Hack&fs=14px&lh=133%25&si=false&es=2x&wm=false&code=int%2520main%28%29%2520%257B%250A%2520%2520%2520%2520if%28pertambahan%28%25221%2522%252C%2520%25221%2522%29%2520%253D%253D%25202%29%2520%257B%250A%2520%2520%2520%2520%2520%2520%2520%2520printf%28%2522Aww%252C%2520cinta%2520sekaleh%2520dengan%2520mu.%255Cn%2522%29%253B%250A%2520%2520%2520%2520%257D%2520else%2520%257B%250A%2520%2520%2520%2520%2520%2520%2520%2520printf%28%2522Yahh...%2520cintaku%2520bukan%2520untukmu%2520nak.%255Cn%2522%29%253B%250A%2520%2520%2520%2520%257D%250A%257D)
