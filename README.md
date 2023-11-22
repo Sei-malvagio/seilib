@@ -36,9 +36,17 @@
 - ```cekPosisiHuruf(const char*, const int)```
 - ```displayPosisiHuruf(const char*, const int)```
 
+> [!TIP]
+> - Wajib menambahkan header
+```c
+#include "seilib.h"
+```
 
 > [!IMPORTANT]
 > Library ini hanya bisa dijalankan untuk IDE (Integrated Development Environment) yang mendukung import file.
 
 > [!CAUTION]
 > Library ini tidak dapat digunakan di IDE/APLIKASI **CodingC**.
+
+## Library version
+> 1.0.0
