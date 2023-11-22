@@ -1,4 +1,18 @@
 # About seilib
 **"seilib"** adalah library ***C programming language***, Library ini *berfungsi untuk memudahkan kalian* bagi para pemula bahasa C agar lebih singkat, intinya ini adalah library agar syntaxnya shortcut dan tidak **tambah gila**.
-
+# Code
 ![contoh_1](https://github.com/Sei-malvagio/seilib/assets/145441542/e48bb100-38c1-426f-bf6e-22e85d1e4f4c)
+# Output
+![Screenshot_2023-11-22-18-37-28-77_40deb401b9ffe8e1df2f1cc5ba480b12](https://github.com/Sei-malvagio/seilib/assets/145441542/9395a09f-c2f2-4e5f-a33c-465c524fe43a)
+# How to use seilib?
+- Pertama-tama kamu download source code dari github ini, dan import ke **IDE** mu.
+- Langkah kedua, kamu buka file ```main.c``` yang sudah disediakan.
+- Lankah **Jika**, Jika kamu tidak ingin menulis code yang sudah tertera di ```main.c``` dan membuat file baru, kamu harus menempatkan header ```#include "seilib.h"``` dibawah header ```include <stdio.h>```
+
+# Fitur
+- Fitur disini lumayan banyak untuk mempermudah kalian.
+- ```pertambahan(const char*, const char*);```
+- ```pengurangan(const char*, const char*)```
+- ```perkalian(const char*, const char*)```
+
+
