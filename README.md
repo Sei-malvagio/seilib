@@ -1,13 +1,17 @@
 # About seilib
 **"seilib"** adalah library ***C programming language***, Library ini *berfungsi untuk memudahkan kalian* bagi para pemula bahasa C agar lebih singkat, intinya ini adalah library agar syntaxnya shortcut dan tidak **tambah gila**.
 # Code
-![contoh_1](https://github.com/Sei-malvagio/seilib/assets/145441542/e48bb100-38c1-426f-bf6e-22e85d1e4f4c)
+![carbon (2)](https://github.com/Sei-malvagio/seilib/assets/145441542/f3b52fb4-5224-4c1d-a3e9-043053bbd5ce)
 # Output
 ![Screenshot_2023-11-22-18-37-28-77_40deb401b9ffe8e1df2f1cc5ba480b12](https://github.com/Sei-malvagio/seilib/assets/145441542/9395a09f-c2f2-4e5f-a33c-465c524fe43a)
 # How to use seilib?
 - Pertama-tama kamu download source code dari github ini, dan import ke **IDE** mu.
 - Langkah kedua, kamu buka file ```main.c``` yang sudah disediakan.
 - Lankah **Jika**, Jika kamu tidak ingin menulis code yang sudah tertera di ```main.c``` dan membuat file baru, kamu harus menempatkan header ```#include "seilib.h"``` dibawah header ```include <stdio.h>```
+- Langkah terakhir, Tambahkan:
+```c
+  #include "seilib.h"
+  ```
 
 ## Features
 - ```pertambahan(const char*, const char*);```
@@ -36,11 +40,32 @@
 - ```cekPosisiHuruf(const char*, const int)```
 - ```displayPosisiHuruf(const char*, const int)```
 
-> [!TIP]
-> - Wajib menambahkan header
+## A little code example
 ```c
+#include <stdio.h>
 #include "seilib.h"
+
+int main() {
+    int hasil;
+    char simpan_nomor_1[20], simpan_nomor_2[20];
+    autoKetikWarna("Halo!, selamat datang di program saya.\n\n", "34000", "warnaBiru");
+    jeda(1);
+    autoKetik("Saya disini membuat program Pertambahan desimal, dan Pembagian desimal\n\n", "34000");
+    jeda(1);
+    autoKetikWarna("Silahkan masukkan nomor 1 dan 2: ", "34000", "warnaAqua");
+    scanf("%s %s", simpan_nomor_1, simpan_nomor_2);
+    jeda(1);
+    hasil = pertambahanDesimal(simpan_nomor_1, simpan_nomor_2);
+    printf("\nHasil dari pertambahan desimal : %.1lf\n", hasil);
+    jeda(1);
+    hasil = pembagianDesimal(simpan_nomor_1, simpan_nomor_2);
+    printf("Hasil dari pembagian desimal : %.1lf\n", hasil);
+    return 0;
+}
 ```
+
+> [!TIP]
+> Harap teliti dalam memulis syntax ya bub ꒰⁠⑅⁠ᵕ⁠༚⁠ᵕ⁠꒱⁠˖⁠♡.
 
 > [!IMPORTANT]
 > Library ini hanya bisa dijalankan untuk IDE (Integrated Development Environment) yang mendukung import file.
