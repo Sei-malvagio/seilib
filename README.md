@@ -20,7 +20,7 @@
 - ```pembagian(const char*, const char*)```
 - ```pertambahanDesimal(const char*, const char*)```
 - ```penguranganDesimal(const char*, const char*)```
-- ```penrkalianDesimal(const char*, const char*)```
+- ```perkalianDesimal(const char*, const char*)```
 - ```pembagianDesimalconst char*, const char*)```
 - ```autoKetik(const char*, const char*)```
 - ```autoKetikWarna(const char*, const char*, const char*)```
