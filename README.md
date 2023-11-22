@@ -40,7 +40,7 @@
 - ```cekPosisiHuruf(const char*, const int)```
 - ```displayPosisiHuruf(const char*, const int)```
 
-## A little code example
+### A little code example
 ```c
 #include <stdio.h>
 #include "seilib.h"
@@ -63,7 +63,7 @@ int main() {
     return 0;
 }
 ```
-## Output
+### Output
 ![codeOutput](https://im.ezgif.com/tmp/ezgif-1-1b5adbd086.gif)
 
 > [!TIP]
