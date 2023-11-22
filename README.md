@@ -14,5 +14,19 @@
 - ```pertambahan(const char*, const char*);```
 - ```pengurangan(const char*, const char*)```
 - ```perkalian(const char*, const char*)```
-
-
+- ```pembagian(const char*, const char*)```
+- ```pertambahanDesimal(const char*, const char*)```
+- ```penguranganDesimal(const char*, const char*)```
+- ```penrkalianDesimal(const char*, const char*)```
+- ```pembagianDesimalconst char*, const char*)```
+- ```autoKetik(const char*, const char*)```
+- ```autoKetikWarna(const char*, const char*, const char*)```
+- ```angkaGanjilconst char*)```
+- ```angkaGenap(const char*)```
+- ```cekAngkaGanjil(const char*, const char*, const char*, const int)```
+- ```cekAngkaGenap(const char*, const char*, const char*, const int)```
+- ```cekPalindrome(const char*, const char*)```
+- ```jeda(const int)```
+- ```jedaCepat(const int)```
+- ```kelipatan(const char*)```
+- 
