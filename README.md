@@ -7,7 +7,7 @@
 # How to use seilib?
 - Pertama-tama kamu download source code dari github ini, dan import ke **IDE** mu.
 - Langkah kedua, kamu buka file ```main.c``` yang sudah disediakan.
-- Lankah **Jika**, Jika kamu tidak ingin menulis code yang sudah tertera di ```main.c``` dan membuat file baru, kamu harus menempatkan header ```#include "seilib.h"``` dibawah header ```include <stdio.h>```
+- Lankah **Jika**, Jika kamu tidak ingin menulis code yang sudah tertera di ```main.c``` dan membuat file baru, kamu harus menempatkan header ```#include "seilib.h"``` dibawah header ```#include <stdio.h>```
 - Langkah terakhir, Tambahkan:
 ```c
   #include "seilib.h"
