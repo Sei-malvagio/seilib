@@ -64,7 +64,7 @@ int main() {
 }
 ```
 ### Output
-![codeOutput](https://im.ezgif.com/tmp/ezgif-1-1b5adbd086.gif)
+![lv_0_20231122201021](https://github.com/Sei-malvagio/seilib/assets/145441542/3df8b6c9-1519-41b0-828e-e44ad077a267)
 
 > [!TIP]
 > Harap teliti dalam memulis syntax ya bub ꒰⁠⑅⁠ᵕ⁠༚⁠ᵕ⁠꒱⁠˖⁠♡.
