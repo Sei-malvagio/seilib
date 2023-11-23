@@ -67,7 +67,8 @@ int main() {
 ![lv_0_20231122201021](https://github.com/Sei-malvagio/seilib/assets/145441542/3df8b6c9-1519-41b0-828e-e44ad077a267)
 
 > [!TIP]
-> Harap teliti dalam memulis syntax ya bub ꒰⁠⑅⁠ᵕ⁠༚⁠ᵕ⁠꒱⁠˖⁠♡.
+> Harap **teliti** dalam memulis syntax ya beb ꒰⁠⑅⁠ᵕ⁠༚⁠ᵕ⁠꒱⁠˖⁠♡.
+> Jika ada kesalahan silahkan hubungi developer lewat sosmed manapun
 
 > [!IMPORTANT]
 > Library ini hanya bisa dijalankan untuk IDE (Integrated Development Environment) yang mendukung import file.
