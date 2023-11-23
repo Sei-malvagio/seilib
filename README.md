@@ -1,7 +1,7 @@
 # About seilib
 **"seilib"** adalah library **C programming language**, Library ini *berfungsi untuk memudahkan kalian* bagi para pemula bahasa C agar lebih singkat, intinya ini adalah library agar syntaxnya lebih shortcut dan tidak **tambah gila**.
 # Code
-![carbon (2)](https://github.com/Sei-malvagio/seilib/assets/145441542/f3b52fb4-5224-4c1d-a3e9-043053bbd5ce)
+![seilib](https://github.com/Sei-malvagio/seilib/assets/145441542/d3f74e2a-1fe5-488a-9178-e49c7c52eebf)
 # Output
 ![Screenshot_2023-11-22-18-37-28-77_40deb401b9ffe8e1df2f1cc5ba480b12](https://github.com/Sei-malvagio/seilib/assets/145441542/9395a09f-c2f2-4e5f-a33c-465c524fe43a)
 # How to use seilib?
