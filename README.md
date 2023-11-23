@@ -1,5 +1,5 @@
 # About seilib
-**"seilib"** adalah library ***C programming language***, Library ini *berfungsi untuk memudahkan kalian* bagi para pemula bahasa C agar lebih singkat, intinya ini adalah library agar syntaxnya shortcut dan tidak **tambah gila**.
+**"seilib"** adalah library **C programming language**, Library ini *berfungsi untuk memudahkan kalian* bagi para pemula bahasa C agar lebih singkat, intinya ini adalah library agar syntaxnya lebih shortcut dan tidak **tambah gila**.
 # Code
 ![carbon (2)](https://github.com/Sei-malvagio/seilib/assets/145441542/f3b52fb4-5224-4c1d-a3e9-043053bbd5ce)
 # Output
@@ -10,7 +10,7 @@
 - Lankah **Jika**, Jika kamu tidak ingin menulis code yang sudah tertera di ```main.c``` dan membuat file baru, kamu harus menempatkan header ```#include "seilib.h"``` dibawah header ```#include <stdio.h>```
 - Langkah terakhir, Tambahkan:
 ```c
-  #include "seilib.h"
+  #include "seilib/seilib.h"
   ```
 
 ## Features
