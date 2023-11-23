@@ -43,7 +43,7 @@
 ### A little code example
 ```c
 #include <stdio.h>
-#include "seilib.h" //Librarynya
+#include "seilib/seilib.h" //Librarynya
 
 int main() {
     double hasil; //Variable hasil
