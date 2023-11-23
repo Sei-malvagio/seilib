@@ -76,7 +76,7 @@ int main() {
 > Library ini tidak dapat digunakan di IDE/APLIKASI **CodingC**.
 
 > [!NOTE]
-> Jika ada bug atau kesalahan ketika memakai library ini, silahkan komplain lewat issue, atau hubungi developernya langsung.
+> Jika ada bug atau kesalahan ketika memakai library ini, silahkan feedback lewat issues, atau hubungi developernya langsung.
 
 ## Library version
 > 1.0.0
